@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "nombre": "Call of dutty",
+        "imagen": "./imagenes/cod.jpg",
+        "precio": 3000.00,
+        "tieneDescuento": true,
+        "precioDescuento": 2500.00
+    },
+    {
+        "id": 2,
+        "nombre": "Fornite",
+        "imagen": "./imagenes/fornite.jpg",
+        "precio": 7000.00,
+        "tieneDescuento": true,
+        "precioDescuento": 5050.00
+    },
+    {
+        "id": 3,
+        "nombre": "Leage of Legends",
+        "imagen": "./imagenes/lol.jpg",
+        "precio": 3000.00,
+        "tieneDescuento": false
+    },
+    {
+        "id": 4,
+        "nombre": "Age of Empires",
+        "imagen": "./imagenes/tempsnip.jpg",
+        "precio": 4000.00,
+        "tieneDescuento": true,
+        "precioDescuento": 3000.00
+    },
+    {
+        "id": 5,
+        "nombre": "Fall guys",
+        "imagen": "./imagenes/fall.JPG",
+        "precio": 4000.00,
+        "tieneDescuento": false
+    },
+    {
+        "id": 6,
+        "nombre": "Boxville",
+        "imagen": "./imagenes/box.jpg",
+        "precio": 1000.00,
+        "tieneDescuento": true,
+        "precioDescuento": 750.00
+    },
+    {
+        "id": 7,
+        "nombre": "Left 4 Dead",
+        "imagen": "./imagenes/left.jpg",
+        "precio": 6000.00,
+        "tieneDescuento": true,
+        "precioDescuento": 4500.00
+    },
+    {
+        "id": 8,
+        "nombre": "God of War",
+        "imagen": "./imagenes/war.jpg",
+        "precio": 4000.00,
+        "tieneDescuento": true,
+        "precioDescuento": 3000.00
+    }
+]
